@@ -1,3 +1,7 @@
+[![make.fun · u-gudril-cool-one-sentence-one-journey-410686ca](https://make.fun/badge/u-gudril-cool-one-sentence-one-journey-410686ca.svg)](https://make.fun/bounty/u-gudril-cool-one-sentence-one-journey-410686ca?utm_source=github&utm_medium=readme&utm_campaign=u-gudril-cool-one-sentence-one-journey-410686ca)
+[![rank](https://make.fun/badge/u-gudril-cool-one-sentence-one-journey-410686ca/dmp1882-web/makefun-one-sentence-one-journey/rank.svg)](https://make.fun/bounty/u-gudril-cool-one-sentence-one-journey-410686ca/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gudril-cool-one-sentence-one-journey-410686ca)
+[![reward](https://make.fun/badge/u-gudril-cool-one-sentence-one-journey-410686ca/dmp1882-web/makefun-one-sentence-one-journey/reward.svg)](https://make.fun/bounty/u-gudril-cool-one-sentence-one-journey-410686ca?utm_source=github&utm_medium=readme&utm_campaign=u-gudril-cool-one-sentence-one-journey-410686ca)
+
 # One Sentence, One Journey
 
 make.fun bounty `u-gudril-cool-one-sentence-one-journey-410686ca` (program/v1).
